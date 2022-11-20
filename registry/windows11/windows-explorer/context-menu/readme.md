@@ -2,8 +2,10 @@
 After changing the registry entry you might need to reboot your pc to see the changes.
 
 **Windows 11 default context menu**
+
 ![](assets/windows11-context-menu.jpg)
 **Windows 11 context menu after restoration**
+
 ![](assets/windows11-restored-context-menu.jpg)
 
 ```
